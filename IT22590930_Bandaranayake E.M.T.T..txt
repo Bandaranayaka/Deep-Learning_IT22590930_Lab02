@@ -1,0 +1,28 @@
+Student ID: IT22590930
+
+Name      : Bandaranayake E.M.T.T.
+
+Lab 02 
+
+
+
+//--------------------------------------------------------------------------
+
+ex. 2 # NN_sample.ipynb
+
+1. What happens when the number of hidden nodes increase? 
+
+	-   When hidden nodes increase, the network gains more capacity to learn complex, non-linear patterns, improving training  accuracy.
+
+
+2. Can you explain the pattern of the accuracy when the hidden nodes increase? 
+
+	-  Increasing hidden nodes initially boosts accuracy due to increased capacity to capture patterns, but too many can cause overfitting and reduce test accuracy.
+
+
+//--------------------------------------------------------------------------
+
+
+
+
+
